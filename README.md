@@ -1,4 +1,4 @@
-# Smart Task Scheduler with Priority Queues (Java + Swing)
+# Smart Task Scheduler with Priority Queues 
 
 A lightweight desktop task manager that automatically prioritizes tasks by urgency using a PriorityQueue. 
 Add, edit, delete, complete, filter, and search tasks in a clean Swing UI. 
@@ -29,26 +29,28 @@ get reminder popups before deadlines; and persist everything to a local JSON fil
 
 ### Prerequisites
 
-JDK 17 installed (JAVA_HOME set)
+- JDK 17 installed (JAVA_HOME set)
 
-Maven installed (optional if building via IntelliJ)
+- Maven installed (optional if building via IntelliJ)
 
-IntelliJ IDEA (Community/Ultimate) recommended
+- IntelliJ IDEA (Community/Ultimate) recommended
 
 ### Linking
 
-git remote add origin https://github.com/yadavsachchidanand18/smart-task-scheduler.git
+- git remote add origin https://github.com/yadavsachchidanand18/smart-task-scheduler.git
 
-git remote -v
+- git remote -v
 
 ### Run in IntelliJ
 
-Open the folder (import as Maven project if prompted).
+- Open the folder (import as Maven project if prompted).
 
-Ensure Project SDK is JDK 17.
+- Ensure Project SDK is JDK 17.
 
-Create/run Application configuration with Main class:
+- Create/run Application configuration with Main class:
 
-com.example.taskscheduler.Main
+- com.example.taskscheduler.Main
+
+- The app window should launch.
 
 The app window should launch.
