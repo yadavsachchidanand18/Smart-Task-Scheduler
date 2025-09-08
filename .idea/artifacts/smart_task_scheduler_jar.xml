@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smart-task-scheduler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/smart_task_scheduler_jar</output-path>
+    <root id="archive" name="smart-task-scheduler.jar">
+      <element id="module-output" name="smart-task-scheduler" />
+    </root>
+  </artifact>
+</component>
